@@ -46,11 +46,13 @@ namespace Contoso.Events.Data
                     e.StartTime = f.Date.Future(3).Date.AddHours(f.Random.Number(8, 10));
                     e.EndTime = e.StartTime.AddHours(f.Random.Number(19) / 2.0);
                     e.EventRegistrationType = f.Random.Enum<RegistrationType>();
-                    e.Title = $"{e.StartTime:yy} {e.StartTime:MM} {e.EventRegistrationType.ToString()} Conference";
+                    e.Title = $"{e.StartTime:YYYY} {e.StartTime:MMMM} {e.EventRegistrationType.ToString()} Conference";
                     e.EventKey = $"fy{e.Title.Replace(" ", String.Empty).ToLower()}{f.UniqueIndex:00}".Replace("fy20", "fy");
                     e.RegistrationCount = f.Random.Bool(0.25f) ? 0 : f.Random.Number(0, 5);
                     e.Description = f.Lorem.Sentences(f.Random.Number(2, 5));
                     e.Latitude = f.Address.Latitude(35.21445, 43.72547);
+                    e.Latitude = f.Address.Latitude(1, 2);
+                    e.Latitude = f.Address.Latitude(3, 4);
                     e.Longitude = f.Address.Longitude(-118.49088, -80.41048);
                 }
             ).Generate(_eventCount).ToList<Event>();
