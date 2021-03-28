@@ -3,6 +3,7 @@
     public class SalesConferenceRegistration : GeneralRegistration
     {
         public string Region { get; set; }
-        public int AnnualSales { get; set; }
+        public int AnnualSales { get; private set; }
+        public int TotalSales { get; set; }
     }
 }
