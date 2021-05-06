@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wo81vDkWTGKHESl4yhEmiI2A4JJ4Rl7/6aeDPVWsCnflWFb9Wp+BT1q4AE8wY+pM52++tdD8h+ZTBgQI1C/mjg==",
+  "dgSpecHash": "4nPcZahTKYJaOe0bKUo/If+hw171EoLHxzzfQ70nVAye5A+vtLpgtMkTYiIDtrwE2THfc3eiY9+omddXg2lCig==",
   "success": true,
-  "projectFilePath": "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.Web\\Contoso.Events.Web.csproj",
+  "projectFilePath": "C:\\Dev\\test\\TestRepo\\Contoso.Events.Web\\Contoso.Events.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\veraa\\.nuget\\packages\\bogus\\22.0.8\\bogus.22.0.8.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",

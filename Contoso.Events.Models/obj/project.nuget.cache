@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3aNoRrD17jMuXG/RxkBXvuZfPo5BZ8eRCBqznmVWoMdfYLKBbrtH94HbESfiH5h5O9hhGySfQaFuYaPGTyByMQ==",
+  "dgSpecHash": "vyPXgBfYOEDOUrTVYLRdiby/nfYzJlVL+S6vfDZ083dXGMJ2K3bY7OEyJQGnk4tQaG02Sz7bJNFy6Fx2ey8H2g==",
   "success": true,
-  "projectFilePath": "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.Models\\Contoso.Events.Models.csproj",
+  "projectFilePath": "C:\\Dev\\test\\TestRepo\\Contoso.Events.Models\\Contoso.Events.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -8417,11 +8417,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.Worker\\Contoso.Events.Worker.csproj",
+      "projectUniqueName": "C:\\Dev\\test\\TestRepo\\Contoso.Events.Worker\\Contoso.Events.Worker.csproj",
       "projectName": "Contoso.Events.Worker",
-      "projectPath": "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.Worker\\Contoso.Events.Worker.csproj",
+      "projectPath": "C:\\Dev\\test\\TestRepo\\Contoso.Events.Worker\\Contoso.Events.Worker.csproj",
       "packagesPath": "C:\\Users\\veraa\\.nuget\\packages\\",
-      "outputPath": "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.Worker\\obj\\",
+      "outputPath": "C:\\Dev\\test\\TestRepo\\Contoso.Events.Worker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -8443,11 +8443,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.Data\\Contoso.Events.Data.csproj": {
-              "projectPath": "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.Data\\Contoso.Events.Data.csproj"
+            "C:\\Dev\\test\\TestRepo\\Contoso.Events.Data\\Contoso.Events.Data.csproj": {
+              "projectPath": "C:\\Dev\\test\\TestRepo\\Contoso.Events.Data\\Contoso.Events.Data.csproj"
             },
-            "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.Models\\Contoso.Events.Models.csproj": {
-              "projectPath": "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.Models\\Contoso.Events.Models.csproj"
+            "C:\\Dev\\test\\TestRepo\\Contoso.Events.Models\\Contoso.Events.Models.csproj": {
+              "projectPath": "C:\\Dev\\test\\TestRepo\\Contoso.Events.Models\\Contoso.Events.Models.csproj"
             }
           }
         }

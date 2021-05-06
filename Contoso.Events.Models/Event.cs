@@ -4,6 +4,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Contoso.Events.Models
 {
+    /// <summary>
+    /// This class represents an event
+    /// </summary>
     public class Event
     {
         [Key]

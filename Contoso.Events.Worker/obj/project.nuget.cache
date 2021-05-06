@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D0NqIcHrPfwNKVZyzj9t65H508uwBNF8xCAJYSK46adRLZRI1m5456zs2/xPZVhU8ydWyhp9/Dn/HuVHUbrHsw==",
+  "dgSpecHash": "4giSKQHDs7FLA8WuUz4BOdTqIbFWMb0kVrSJjKB0Qcnnug4iU4X2pM6Fgkx/LHOt8v6DJq5soAXY4zwd1cdOFg==",
   "success": true,
-  "projectFilePath": "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.Worker\\Contoso.Events.Worker.csproj",
+  "projectFilePath": "C:\\Dev\\test\\TestRepo\\Contoso.Events.Worker\\Contoso.Events.Worker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\veraa\\.nuget\\packages\\bogus\\22.0.8\\bogus.22.0.8.nupkg.sha512",
     "C:\\Users\\veraa\\.nuget\\packages\\documentformat.openxml\\2.8.1\\documentformat.openxml.2.8.1.nupkg.sha512",
