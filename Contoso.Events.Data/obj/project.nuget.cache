@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qj5+EpwrsbI5yDBY775ibm9U6u8tE9HcxMKLcHz/hjbJ71Sa9GmLBqhzI2237NwXm1wHgLcIcNdSdyN1p3clvw==",
+  "dgSpecHash": "FbuK1YaKVJUjX0wRI9wQxVcle6ojpw8cefdSFNCznFZj90PbZyxY4vqUsf3sdU8gRrGS8tOWAwAxdPt5/n8PKg==",
   "success": true,
-  "projectFilePath": "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.Data\\Contoso.Events.Data.csproj",
+  "projectFilePath": "C:\\Dev\\test\\TestRepo\\Contoso.Events.Data\\Contoso.Events.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\veraa\\.nuget\\packages\\bogus\\22.0.8\\bogus.22.0.8.nupkg.sha512",
     "C:\\Users\\veraa\\.nuget\\packages\\microsoft.azure.documentdb.core\\1.9.1\\microsoft.azure.documentdb.core.1.9.1.nupkg.sha512",

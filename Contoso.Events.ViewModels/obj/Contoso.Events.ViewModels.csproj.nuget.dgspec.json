@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.ViewModels\\Contoso.Events.ViewModels.csproj": {}
+    "C:\\Dev\\test\\TestRepo\\Contoso.Events.ViewModels\\Contoso.Events.ViewModels.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.Models\\Contoso.Events.Models.csproj": {
+    "C:\\Dev\\test\\TestRepo\\Contoso.Events.Models\\Contoso.Events.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.Models\\Contoso.Events.Models.csproj",
+        "projectUniqueName": "C:\\Dev\\test\\TestRepo\\Contoso.Events.Models\\Contoso.Events.Models.csproj",
         "projectName": "Contoso.Events.Models",
-        "projectPath": "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.Models\\Contoso.Events.Models.csproj",
+        "projectPath": "C:\\Dev\\test\\TestRepo\\Contoso.Events.Models\\Contoso.Events.Models.csproj",
         "packagesPath": "C:\\Users\\veraa\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.Models\\obj\\",
+        "outputPath": "C:\\Dev\\test\\TestRepo\\Contoso.Events.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.ViewModels\\Contoso.Events.ViewModels.csproj": {
+    "C:\\Dev\\test\\TestRepo\\Contoso.Events.ViewModels\\Contoso.Events.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.ViewModels\\Contoso.Events.ViewModels.csproj",
+        "projectUniqueName": "C:\\Dev\\test\\TestRepo\\Contoso.Events.ViewModels\\Contoso.Events.ViewModels.csproj",
         "projectName": "Contoso.Events.ViewModels",
-        "projectPath": "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.ViewModels\\Contoso.Events.ViewModels.csproj",
+        "projectPath": "C:\\Dev\\test\\TestRepo\\Contoso.Events.ViewModels\\Contoso.Events.ViewModels.csproj",
         "packagesPath": "C:\\Users\\veraa\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.ViewModels\\obj\\",
+        "outputPath": "C:\\Dev\\test\\TestRepo\\Contoso.Events.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -99,8 +99,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.Models\\Contoso.Events.Models.csproj": {
-                "projectPath": "C:\\Temp\\GitHub\\TestRepo\\TestRepo\\Contoso.Events.Models\\Contoso.Events.Models.csproj"
+              "C:\\Dev\\test\\TestRepo\\Contoso.Events.Models\\Contoso.Events.Models.csproj": {
+                "projectPath": "C:\\Dev\\test\\TestRepo\\Contoso.Events.Models\\Contoso.Events.Models.csproj"
               }
             }
           }
